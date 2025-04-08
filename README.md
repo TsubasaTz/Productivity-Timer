@@ -1,1 +1,1 @@
-# Productivity Timer 2
+# Productivity Timer
